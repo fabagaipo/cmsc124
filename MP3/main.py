@@ -1,5 +1,3 @@
-# Fayne Roxenne A. Bagaipo CMSC 124 A
-
 # 1. Grammar rules for an arithmetic expression:
 # <expr> ::= <expr>+<term> | <expr>-<term> | <term>
 # <term> ::= <term>*<factor> | <term>/<factor> | <factor>
